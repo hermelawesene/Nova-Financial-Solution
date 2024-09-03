@@ -1,4 +1,9 @@
 data
+<<<<<<< Updated upstream
 .venv
 env
 .venv/pyvenv.cfg
+=======
+venv
+.venv
+>>>>>>> Stashed changes
